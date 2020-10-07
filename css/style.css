@@ -1,0 +1,58 @@
+.texteRouge{
+    color: red;
+}
+.policearial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texteVert{
+    color:vert;
+}
+#blueBackground {
+   background-color: blue
+
+}
+body{background-image: url(glace.jfif) ;
+background-size : cover;
+background-attachment: fixed;
+}
+#marginText
+{margin: 10px;
+}
+#paddingText{
+    padding:10px;
+}
+
+#green{
+    background-color: green;
+    width: 80%;
+    height: 50px;
+    float: left;
+    {
+
+#blue{
+    background-color:blue;
+    width:80%;
+    height: 50px;
+    float: :left;
+    {
+    
+}
+#red{
+    background-color: red;
+    width:80%;
+    height: 50px;
+    float: left;
+}
+#orange{
+    background-color: sandybrown;
+    width: 80%;
+    height: 50px;
+    float: none;
+}
+
+
+
+
+
+
+}
